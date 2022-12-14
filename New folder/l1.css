@@ -1,0 +1,28 @@
+body{
+	background-color: #FADBD8;
+	padding: 0;
+	margin:0;
+	overflow-x: hidden;
+	text-align: center;
+}
+header{
+	background-color: #B03A2E;
+	padding: 15px;
+	box-shadow: 0 0 3px;
+}
+header a{
+	display: iniline;
+	padding-left: 50px;
+	text-decoration: none;
+	transition: .3s ease;
+	color: #333;
+	font-style:arial;
+}
+header a:hover{
+	color: royalblue;
+
+}
+header #contact a{
+	display: inline;
+
+}
